@@ -11,3 +11,4 @@ projeto de Computação Quântica
     3. pip install qiskit-aer
     4. pip install matplotlib pylatexenc
     5. pip install ipykernel
+    6. pip install qiskit-algorithms
